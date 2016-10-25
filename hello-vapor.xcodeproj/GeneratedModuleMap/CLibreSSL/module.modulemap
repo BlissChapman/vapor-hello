@@ -1,0 +1,5 @@
+framework module CLibreSSL {
+    umbrella header "/Users/blisschapman/Developer/Other/Vapor/hello-vapor/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+    link framework "CLibreSSL"
+    export *
+}
